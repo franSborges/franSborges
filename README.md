@@ -1,8 +1,8 @@
 ### Olá eu sou a Fran 👋
 
-- 👩🏾‍💻 Estudante...
-- 💡💻 Desenvolvimento Web/ Desenvolvimento de Software ...
-- 📚 livros ...
+- 👩🏾‍💻 Student
+- 💡💻 Software development
+- 📚 books
 
 <div>
   <a href="https://github.com/franSborges">
