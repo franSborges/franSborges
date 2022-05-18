@@ -6,9 +6,12 @@
 
 
 ##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franSborges&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=7&theme=tokyonight)
-  
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="typescript" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
