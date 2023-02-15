@@ -1,7 +1,7 @@
 ### Olá eu sou a Fran 👋
 
+- 💡💻 Software Developer👩🏾‍💻 Student
 - 👩🏾‍💻 Student
-- 💡💻 Software Developer
 - 📚 books
 
 
