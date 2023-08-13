@@ -1,4 +1,7 @@
-### Olá eu sou a Fran 👋
+### Olá eu sou a Fran 
+
+Tenho 20 anos e sou Desenvolvedora de software a quase 2 anos, com experiências de estudos e profissional, a programação e as tecnologias como um todo sempre me geram curiosidade e ânsia por novos conhecimentos e aqui no meu GitHub você pode ver um pouco das tecnologias que trabalho e estudo e contribuições.
+
 
 - 💡💻 Software Developer
 - 👩🏾‍💻 Student
