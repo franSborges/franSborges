@@ -1,15 +1,12 @@
-### Olá eu sou a Fran <img align="center" alt="hand" height="40" width="40" src="./1f44b.gif">
+### Hi I'm Fran <img align="center" alt="hand" height="40" width="40" src="./1f44b.gif">
 - 💡💻 Software Developer
 
   
-Tenho 20 anos e sou Desenvolvedora de software a quase 2 anos, com experiências de estudos e profissional, a programação e as tecnologias como um todo sempre me geram curiosidade e ânsia por novos conhecimentos e aqui no meu GitHub você pode ver um pouco das tecnologias que trabalho, estudos e contribuições.
+I'm 20 years old and I've been a software developer for almost 2 years, with study and professional experiences, programming and technologies as a whole always make me curious and eager for new knowledge and here on my GitHub you can see some of the technologies that work, studies and contributions.
 
+✒️ In my free time I like [ hanging out with friends, doing puzzles and playing group games ];
 
-
-✒️ Eu gosto de no meu tempo livre [ sair com amigos, montar quebra cabeças e jogar jogos em grupo ];
-
-📚 Lendo: [ Mulheres que correm com lobos ]
-
+📚 Reading: [Women who run with wolves]
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=20&theme=tokyonight)
@@ -18,11 +15,9 @@ Tenho 20 anos e sou Desenvolvedora de software a quase 2 anos, com experiências
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franSborges&theme=tokyonight)](https://git.io/streak-stats)
 ##
 
+### I've worked with... 🔧
 
-
-### Eu já trabalhei com... 🔧
-
-**Tecnologias e Ferramentas**
+**Technologies and Tools**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,24 +50,24 @@ Tenho 20 anos e sou Desenvolvedora de software a quase 2 anos, com experiências
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ##
   
-  ### Eu estou estudando/especializando... 🧩
+ ### I'm studying/specializing... 🧩
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ##
- ### Planejamento/Organização e estudos... 📑📚
+### Planning / Organization and studies... 📑📚
  ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
  ![todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
  ![Obsidiam](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ##
- ### Meus Artigos 📑
+### My Articles 📑
 <a href="https://dev.to/fransborges"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
 
  ##
 
- ### Entre em contato comigo! 📭
+ ### Please contact me! 📭
 <div> 
   <a href = "mailto:borgesfran497@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciele-borges-49886b211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
