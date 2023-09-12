@@ -1,4 +1,4 @@
-### Hi I'm Fran <img align="center" alt="hand" height="40" width="40" src="./1f44b.gif">
+### Hi guys, I'm Fran <img align="center" alt="hand" height="40" width="40" src="./1f44b.gif">
 - 💡💻 Software Developer
 
   
