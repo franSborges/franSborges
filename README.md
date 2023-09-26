@@ -12,7 +12,10 @@ I'm 20 years old and I've been a software developer for almost 2 years, with stu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=20&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franSborges&count_private=true&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franSborges&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=Fr4nBorges">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=Fr4nBorges" width="450" height="195" alt="Progresso 100 dias de codigo">
+</a>
+
 ##
 
 ### I've worked with... 🔧
