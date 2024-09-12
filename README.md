@@ -6,7 +6,7 @@ I'm 20 years old and I've been a software developer for almost 2 years, with stu
 
 ✒️ In my free time I like [ hanging out with friends, doing puzzles and playing group games ];
 
-📚 Reading: [Women who run with wolves]
+📚 Reading: [Eve]
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=20&theme=tokyonight)
