@@ -2,7 +2,7 @@
 - 💡💻 Software Developer
 
   
-I'm 20 years old and I've been a software developer for almost 2 years, with study and professional experiences, programming and technologies as a whole always make me curious and eager for new knowledge and here on my GitHub you can see some of the technologies that work, studies and contributions.
+I'm 21 years old and I've been a software developer for almost 2 years, with study and professional experiences, programming and technologies as a whole always make me curious and eager for new knowledge and here on my GitHub you can see some of the technologies that work, studies and contributions.
 
 ✒️ In my free time I like [ hanging out with friends, doing puzzles and playing group games ];
 
