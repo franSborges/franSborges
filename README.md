@@ -2,7 +2,7 @@
 - 💡💻 Software Developer
 
   
-I'm 21 years old and I've been a software developer for almost 2 years, with study and professional experiences, programming and technologies as a whole always make me curious and eager for new knowledge and here on my GitHub you can see some of the technologies that work, studies and contributions.
+I'm 22 years old and I've been a software developer for almost 2 years, with study and professional experiences, programming and technologies as a whole always make me curious and eager for new knowledge and here on my GitHub you can see some of the technologies that work, studies and contributions.
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=20&theme=tokyonight)
