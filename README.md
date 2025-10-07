@@ -6,7 +6,6 @@ I'm 22 years old and I've been a software developer for almost 2 years, with stu
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=20&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franSborges&count_private=true&show_icons=true&theme=tokyonight)
 
 ##
 ### My Articles 📑
