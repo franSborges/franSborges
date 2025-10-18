@@ -18,8 +18,8 @@ Programming(and tech in general) always keeps me curious and I really enjoy lear
  ##
 
  ### You can find me on 📭
-<div>  <p>E-mail: franborges.contact@gmail.com</p></div>
+  E-mail: [franborges.contact@gmail.com](mailto:franborges.contact@gmail.com)
 <div> 
-  <a href="https://www.linkedin.com/in/franciele-borges-49886b211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/franb0rges.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franciele-borges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/itsfraanx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
