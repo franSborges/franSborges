@@ -1,7 +1,7 @@
 
 
 ## Hi there, I'm Fran <img align="center" alt="hand" height="32" width="32" src="./1f44b.gif"/>
-<img align="right" width="410" alt="Top Langs"
+<img align="right" width="300" alt="Top Langs"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 
 Software developer with around 3 years of experience, building full-stack applications.
