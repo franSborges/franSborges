@@ -4,7 +4,7 @@
 <img align="right" width="300" alt="Top Langs"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 
-Software developer with around 3 years of experience, building full-stack applications.
+Software developer with  3 years of experience, building full-stack applications.
 I’m currently studying Software Analysis and Development and diving deep into Python and LLM-based projects.
 
 Over the past few years, I’ve worked across different parts of the stack, from frontend interfaces to backend APIs,
