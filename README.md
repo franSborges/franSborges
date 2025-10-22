@@ -4,11 +4,11 @@
 <img align="right" width="300" alt="Top Langs"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 
-Software developer with  3 years of experience, building full-stack applications.
-I’m currently studying Software Analysis and Development and diving deep into Python and LLM-based projects.
-
-Over the past few years, I’ve worked across different parts of the stack, from frontend interfaces to backend APIs,
+Software developer with 3 years of experience, building full-stack applications, 
+over the past few years, I’ve worked across different parts of the stack, from frontend interfaces to backend APIs,
 integrations, microservices and others.
+
+I’m currently studying Software Analysis and Development and diving deep into Python and LLM-based projects.
 
 Programming (and tech in general) always keeps me curious and I really enjoy learning new tools and ideas.
 Here on my GitHub, you’ll find projects, experiments, and a bit of what I’ve been learning along the way.
