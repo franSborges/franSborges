@@ -4,11 +4,7 @@
 <img align="right" width="300" alt="Top Langs"
      src="https://github-stats-extended.vercel.app/api/top-langs/?username=franSborges&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 
-Software developer with 3 years of experience, building full-stack applications, 
-over the past few years, I’ve worked across different parts of the stack, from frontend interfaces to backend APIs,
-integrations, microservices and others.
-
-I’m currently studying Software Analysis and Development and diving deep into Python and LLM-based projects.
+Full Stack Developer with over 3 years of experience, focusing primarily on Node.js, TypeScript, and NestJS. I also build front-end interfaces using React and Next.js, and I am currently pursuing a degree in Systems Analysis and Development. Over the last few years, I have worked across different areas of the stack, from the back-end (Node.js, TypeScript, NestJS, Express.js, Prisma, TypeORM, PostgreSQL, MongoDB, RabbitMQ, Docker, AWS) to the front-end (React, TypeScript, Next.js, SASS/CSS, styled-components, Tailwind). My experience includes working with APIs, integrations, microservices, serverless architectures, and VTEX IO e-commerce.
 
 Programming (and tech in general) always keeps me curious and I really enjoy learning new tools and ideas.
 Here on my GitHub, you’ll find projects, experiments, and a bit of what I’ve been learning along the way.
